@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1402537272 source:c:\users\jonathan\dropbox\tec\materia tec 3º semestre\programacion\c++\proyecto 2\main.cpp
+	<iostream>
+	"fstream"
+	<cstdlib>
+	<sstream>
+	<string>
+	<stack>
+
